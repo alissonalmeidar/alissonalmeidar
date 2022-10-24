@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alissonalmeidar
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Front-end projects
+- 📫 How to reach me: @alissonalmeida.r on Instagram
 
 <!---
 alissonalmeidar/alissonalmeidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
